@@ -19,5 +19,8 @@ Do sales figures vary between geographic regions?
 ### Data
 Data used in this project was provided by CareerFoundry for the purpose of learning SQL. The data set includes information on stores, staff, customers, rental history, payment history, inventory, film categories, film titles, film languages, actors, and the addresses associated with customers, staff, and stores.
 
-#### Visualizations
-Visualizations were created using Tableau Public and are viewable at ....
+#### Tools
+PostgreSQL
+
+##### Visualizations
+Visualizations were created using Tableau Public and are viewable here: [Tableau](https://public.tableau.com/app/profile/kevin.clancy2418/viz/RockbusterStealth_17153583930360/Story1#1)
